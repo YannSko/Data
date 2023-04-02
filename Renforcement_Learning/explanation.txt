@@ -1,0 +1,3 @@
+Trying to code with from the code of : https://github.com/TheAILearner/Snake-Game-using-OpenCV-Python/blob/master/snake_game_using_opencv.ipynb
+
+a renforcement machine learning to learn snake on his own
